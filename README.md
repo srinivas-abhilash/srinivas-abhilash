@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srinivas-abhilash
+- 👋 Hi, I’m Srinivas Abhilash Chintaluru, a Masters in Business Analytics Student at University of California Davis
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
